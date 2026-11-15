@@ -5,884 +5,6 @@
 	(uuid "83be0fc1-8b6d-47bd-9abe-359678d3061d")
 	(paper "A2")
 	(lib_symbols
-		(symbol "B04B-PASK-1_1"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "B04B-PASK-1"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Value" "B04B-PASK-1"
-				(at -2.54 10.16 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "WaterNet26 Footprints:B04B-PASK-1"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MF" "JST Sales America Inc."
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Description_1" "Connector Header Through Hole 4 position 0.079 (2.00mm)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/B04B-PASK-1/JST/view-part/?ref=eda"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/B04B-PASK-1/JST/view-part/?ref=snap"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MP" "B04B-PASK-1"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MANUFACTURER" "JST"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(symbol "B04B-PASK-1_1_0_0"
-				(rectangle
-					(start -6.35 -5.08)
-					(end 1.27 7.62)
-					(stroke
-						(width 0.4064)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive inverted
-					(at -2.54 5.08 180)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive inverted
-					(at -2.54 2.54 180)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive inverted
-					(at -2.54 0 180)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive inverted
-					(at -2.54 -2.54 180)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "B04B-PASK-1_1_1"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "B04B-PASK-1"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Value" "B04B-PASK-1"
-				(at -2.54 10.16 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "WaterNet26 Footprints:B04B-PASK-1"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MF" "JST Sales America Inc."
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Description_1" "Connector Header Through Hole 4 position 0.079 (2.00mm)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Package" "None"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/B04B-PASK-1/JST/view-part/?ref=eda"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/B04B-PASK-1/JST/view-part/?ref=snap"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MP" "B04B-PASK-1"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MANUFACTURER" "JST"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(symbol "B04B-PASK-1_1_1_0_0"
-				(rectangle
-					(start -6.35 -5.08)
-					(end 1.27 7.62)
-					(stroke
-						(width 0.4064)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive inverted
-					(at -2.54 5.08 180)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive inverted
-					(at -2.54 2.54 180)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive inverted
-					(at -2.54 0 180)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive inverted
-					(at -2.54 -2.54 180)
-					(length 2.54)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "ERJ3EKF1001V:ERJ3EKF1001V"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "R"
-				(at -7.624 2.541 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "ERJ3EKF1001V"
-				(at -7.624 -5.087 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "ERJ3EKF1001V:RES_ERJ3EKF1001V"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "1 kOhms 1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MF" "Panasonic"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "0.45 mm"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Package" "1608-2 Panasonic"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/ERJ-3EKF1001V/Panasonic+Electronic+Components/view-part/?ref=eda"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "PARTREV" "3/1/2020"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERJ-3EKF1001V/Panasonic+Electronic+Components/view-part/?ref=snap"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MP" "ERJ-3EKF1001V"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=12253&manufacturer=Panasonic&part_name=ERJ-3EKF1001V&search_term=erj-3ekf1001v"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MANUFACTURER" "Panasonic"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(symbol "ERJ3EKF1001V_0_0"
-				(polyline
-					(pts
-						(xy -5.08 0) (xy -4.445 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.445 1.905) (xy -3.175 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.175 -1.905) (xy -1.905 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 1.905) (xy -0.635 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.635 -1.905) (xy 0.635 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.635 1.905) (xy 1.905 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 -1.905) (xy 3.175 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.175 1.905) (xy 4.445 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.445 -1.905) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -10.16 0 0)
-					(length 5.08)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 0 180)
-					(length 5.08)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "WaterNet Library:6130XX11821_61300811821"
 			(pin_names
 				(offset 1.016)
@@ -914,7 +36,7 @@
 					(justify right bottom)
 				)
 			)
-			(property "Footprint" "6130XX11821_61300811821:61300811821"
+			(property "Footprint" "WaterNet26 Library:61300811821"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1377,6 +499,266 @@
 						)
 					)
 					(number "8"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "WaterNet Library:B04B-PASK-1_1"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "B04B-PASK-1"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Value" "B04B-PASK-1"
+				(at -2.54 10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "WaterNet26 Library:B04B-PASK-1"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MF" "JST Sales America Inc."
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Description_1" "Connector Header Through Hole 4 position 0.079 (2.00mm)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/B04B-PASK-1/JST/view-part/?ref=eda"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/B04B-PASK-1/JST/view-part/?ref=snap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "B04B-PASK-1"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MANUFACTURER" "JST"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "B04B-PASK-1_1_0_0"
+				(rectangle
+					(start -6.35 -5.08)
+					(end 1.27 7.62)
+					(stroke
+						(width 0.4064)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive inverted
+					(at -2.54 5.08 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive inverted
+					(at -2.54 2.54 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive inverted
+					(at -2.54 0 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive inverted
+					(at -2.54 -2.54 180)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -4950,7 +4332,7 @@
 					)
 				)
 			)
-			(property "Footprint" "WaterNet Footprints:61234020621"
+			(property "Footprint" "WaterNet26 Library:61234020621"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6520,7 +5902,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "WaterNet Footprints:RES_ERJ3EKF1001V"
+			(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7215,6 +6597,364 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "WaterNet Library:ERJ3EKF1001V"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at -7.624 2.541 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "ERJ3EKF1001V"
+				(at -7.624 -5.087 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "1 kOhms 1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MF" "Panasonic"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "0.45 mm"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "1608-2 Panasonic"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/ERJ-3EKF1001V/Panasonic+Electronic+Components/view-part/?ref=eda"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "PARTREV" "3/1/2020"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERJ-3EKF1001V/Panasonic+Electronic+Components/view-part/?ref=snap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "ERJ-3EKF1001V"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=12253&manufacturer=Panasonic&part_name=ERJ-3EKF1001V&search_term=erj-3ekf1001v"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MANUFACTURER" "Panasonic"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "ERJ3EKF1001V_0_0"
+				(polyline
+					(pts
+						(xy -5.08 0) (xy -4.445 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.445 1.905) (xy -3.175 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.175 -1.905) (xy -1.905 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 1.905) (xy -0.635 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 -1.905) (xy 0.635 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 1.905 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 -1.905) (xy 3.175 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 1.905) (xy 4.445 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.445 -1.905) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -10.16 0 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 0 180)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "WaterNet Library:ERJ3EKF1501V"
 			(pin_names
 				(offset 1.016)
@@ -7603,7 +7343,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "WaterNet Footprints:RES_ERJ3EKF1503V"
+			(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -9240,7 +8980,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "PPTC041LFBN-RC:SULLINS_PPTC041LFBN-RC"
+			(property "Footprint" "WaterNet26 Library:SULLINS_PPTC041LFBN-RC"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -10018,7 +9758,6 @@
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
-				(hide yes)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -10335,7 +10074,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "TS04-66-50-BK-160-SMT-TR:SW_TS04-66-50-BK-160-SMT-TR"
+			(property "Footprint" "WaterNet26 Library:SW_TS04-66-50-BK-160-SMT-TR"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -11423,24 +11162,6 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at -17.78 12.7 0)
-					(length 5.08)
-					(name "VBUS_A"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "A4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
 				(pin bidirectional line
 					(at -17.78 5.08 0)
 					(length 5.08)
@@ -11513,7 +11234,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin bidirectional line
 					(at -17.78 12.7 0)
 					(length 5.08)
 					(hide yes)
@@ -11562,24 +11283,6 @@
 						)
 					)
 					(number "B1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 17.78 12.7 180)
-					(length 5.08)
-					(name "VBUS_B"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "B4"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -11659,7 +11362,7 @@
 						)
 					)
 				)
-				(pin power_in line
+				(pin bidirectional line
 					(at 17.78 12.7 180)
 					(length 5.08)
 					(hide yes)
@@ -11765,6 +11468,44 @@
 						)
 					)
 					(number "S4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(symbol "USB4120-03-C_REVA6_1_0"
+				(pin bidirectional line
+					(at -17.78 12.7 0)
+					(length 5.08)
+					(name "VBUS_A"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "A4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 17.78 12.7 180)
+					(length 5.08)
+					(name "VBUS_B"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "B4"
 						(effects
 							(font
 								(size 1.016 1.016)
@@ -17081,7 +16822,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:SOT95P240X110-3N"
+		(property "Footprint" "WaterNet26 Library:SOT95P240X110-3N"
 			(at 328.93 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -17323,7 +17064,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:RES_ERJ3EKF1001V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 			(at 186.69 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -17817,7 +17558,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 468.3252 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -18523,7 +18264,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:61234020621"
+		(property "Footprint" "WaterNet26 Library:61234020621"
 			(at 189.23 182.88 0)
 			(hide yes)
 			(show_name no)
@@ -18686,7 +18427,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ERJ3EKF1001V:ERJ3EKF1001V")
+		(lib_id "WaterNet Library:ERJ3EKF1001V")
 		(at 414.02 243.84 90)
 		(unit 1)
 		(body_style 1)
@@ -18716,7 +18457,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ3EKF1001V:RES_ERJ3EKF1001V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 			(at 414.02 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -19020,7 +18761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:SULLINS_PPTC041LFBN-RC"
+		(property "Footprint" "WaterNet26 Library:SULLINS_PPTC041LFBN-RC"
 			(at 106.68 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -19486,7 +19227,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:RES_ERJ3EKF1503V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 			(at 83.82 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -19711,7 +19452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:SOT95P240X110-3N"
+		(property "Footprint" "WaterNet26 Library:SOT95P240X110-3N"
 			(at 328.93 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -20252,7 +19993,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ERJ3EKF1001V:ERJ3EKF1001V")
+		(lib_id "WaterNet Library:ERJ3EKF1001V")
 		(at 297.18 179.07 0)
 		(unit 1)
 		(body_style 1)
@@ -20282,7 +20023,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ3EKF1001V:RES_ERJ3EKF1001V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 			(at 297.18 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -20555,7 +20296,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ERJ3EKF1001V:ERJ3EKF1001V")
+		(lib_id "WaterNet Library:ERJ3EKF1001V")
 		(at 297.18 204.47 0)
 		(unit 1)
 		(body_style 1)
@@ -20585,7 +20326,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ3EKF1001V:RES_ERJ3EKF1001V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 			(at 297.18 204.47 0)
 			(hide yes)
 			(show_name no)
@@ -21574,7 +21315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:RES_ERJ3EKF1503V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 			(at 92.71 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -22844,204 +22585,6 @@
 		)
 	)
 	(symbol
-		(lib_name "B04B-PASK-1_1_1")
-		(lib_id "WaterNet Library:B04B-PASK-1_1_1")
-		(at 473.71 240.03 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "596fbb09-32f0-40a8-9001-d2b790a6d512")
-		(property "Reference" "JP2"
-			(at 473.71 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Value" "B04B-PASK-1"
-			(at 471.17 229.87 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "WaterNet Footprints:B04B-PASK-1"
-			(at 473.71 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 473.71 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 473.71 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "MF" "JST Sales America Inc."
-			(at 473.71 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Description_1" "Connector Header Through Hole 4 position 0.079 (2.00mm)"
-			(at 473.71 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "None"
-			(at 473.71 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 473.71 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/B04B-PASK-1/JST/view-part/?ref=eda"
-			(at 473.71 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B04B-PASK-1/JST/view-part/?ref=snap"
-			(at 473.71 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "B04B-PASK-1"
-			(at 473.71 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 473.71 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "JST"
-			(at 473.71 240.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "3"
-			(uuid "a5de1cde-73cf-49c5-aae6-ca9ab0cf9dfd")
-		)
-		(pin "2"
-			(uuid "850f726d-b58f-4fd0-b18c-6c590ce2426c")
-		)
-		(pin "1"
-			(uuid "c56505f3-6700-4c97-9151-d6b16d956c06")
-		)
-		(pin "4"
-			(uuid "5ca27ba0-84ca-4858-a9f6-2a38501b2d92")
-		)
-		(instances
-			(project "jetson_board"
-				(path "/83be0fc1-8b6d-47bd-9abe-359678d3061d"
-					(reference "JP2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 469.9 137.16 0)
 		(unit 1)
@@ -23847,7 +23390,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:SW_TS04-66-50-BK-160-SMT-TR"
+		(property "Footprint" "WaterNet26 Library:SW_TS04-66-50-BK-160-SMT-TR"
 			(at 457.2 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -24047,7 +23590,6 @@
 		)
 	)
 	(symbol
-		(lib_name "B04B-PASK-1_1")
 		(lib_id "WaterNet Library:B04B-PASK-1_1")
 		(at 433.07 240.03 0)
 		(unit 1)
@@ -24081,7 +23623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:B04B-PASK-1"
+		(property "Footprint" "WaterNet26 Library:B04B-PASK-1"
 			(at 433.07 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -24276,7 +23818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:RES_ERJ3EKF1000V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1000V"
 			(at 353.06 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -24883,7 +24425,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:61300811821"
+		(property "Footprint" "WaterNet26 Library:61300811821"
 			(at 64.77 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -25078,7 +24620,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:RES_ERJ3EKF1000V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1000V"
 			(at 353.06 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -25791,7 +25333,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:GCT_USB4120-03-C_REVA6"
+		(property "Footprint" "WaterNet26 Library:GCT_USB4120-03-C_REVA6"
 			(at 317.5 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -26250,7 +25792,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:RES_ERJ3EKF1000V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1000V"
 			(at 353.06 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -26477,7 +26019,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:CAPC2012X95N"
+		(property "Footprint" "WaterNet26 Library:CAPC2012X95N"
 			(at 470.8652 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -26615,7 +26157,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ERJ3EKF1001V:ERJ3EKF1001V")
+		(lib_id "WaterNet Library:ERJ3EKF1001V")
 		(at 440.69 111.76 180)
 		(unit 1)
 		(body_style 1)
@@ -26645,7 +26187,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ3EKF1001V:RES_ERJ3EKF1001V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 			(at 440.69 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -27254,7 +26796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:LED_CLMVC-FKA-CL1D1L71BB7C3C3"
+		(property "Footprint" "WaterNet26 Library:LED_CLMVC-FKA-CL1D1L71BB7C3C3"
 			(at 373.38 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -27611,6 +27153,203 @@
 		)
 	)
 	(symbol
+		(lib_id "WaterNet Library:B04B-PASK-1_1")
+		(at 473.71 240.03 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "97eb8051-666f-421f-a5cf-68d16a6467d9")
+		(property "Reference" "JP2"
+			(at 473.71 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "B04B-PASK-1"
+			(at 471.17 229.87 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "WaterNet26 Library:B04B-PASK-1"
+			(at 473.71 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 473.71 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 473.71 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" "JST Sales America Inc."
+			(at 473.71 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Description_1" "Connector Header Through Hole 4 position 0.079 (2.00mm)"
+			(at 473.71 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 473.71 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 473.71 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/B04B-PASK-1/JST/view-part/?ref=eda"
+			(at 473.71 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/B04B-PASK-1/JST/view-part/?ref=snap"
+			(at 473.71 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "B04B-PASK-1"
+			(at 473.71 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 473.71 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "JST"
+			(at 473.71 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "3"
+			(uuid "c01e30bb-da4a-4e22-a738-ae7b1f52bc85")
+		)
+		(pin "2"
+			(uuid "54c882b6-4535-4286-b540-862a5506cdcc")
+		)
+		(pin "1"
+			(uuid "3960cf4c-42ff-4cdc-ab4a-14ca59da09f9")
+		)
+		(pin "4"
+			(uuid "88dbad86-435f-4c9e-982f-ea6e64d27edf")
+		)
+		(instances
+			(project "jetson_board"
+				(path "/83be0fc1-8b6d-47bd-9abe-359678d3061d"
+					(reference "JP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 170.18 157.48 0)
 		(unit 1)
@@ -27798,7 +27537,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:SOT95P240X110-3N"
+		(property "Footprint" "WaterNet26 Library:SOT95P240X110-3N"
 			(at 328.93 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -28085,7 +27824,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ERJ3EKF1001V:ERJ3EKF1001V")
+		(lib_id "WaterNet Library:ERJ3EKF1001V")
 		(at 438.15 43.18 180)
 		(unit 1)
 		(body_style 1)
@@ -28115,7 +27854,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ3EKF1001V:RES_ERJ3EKF1001V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 			(at 438.15 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -28950,7 +28689,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:61300811821"
+		(property "Footprint" "WaterNet26 Library:61300811821"
 			(at 64.77 195.58 0)
 			(hide yes)
 			(show_name no)
@@ -30370,7 +30109,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:RES_ERJ3EKF1001V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 			(at 166.37 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -30787,7 +30526,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:SW_TS04-66-50-BK-160-SMT-TR"
+		(property "Footprint" "WaterNet26 Library:SW_TS04-66-50-BK-160-SMT-TR"
 			(at 454.66 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -31603,7 +31342,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ERJ3EKF1001V:ERJ3EKF1001V")
+		(lib_id "WaterNet Library:ERJ3EKF1001V")
 		(at 297.18 152.4 0)
 		(unit 1)
 		(body_style 1)
@@ -31633,7 +31372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ3EKF1001V:RES_ERJ3EKF1001V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 			(at 297.18 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -33023,7 +32762,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ERJ3EKF1001V:ERJ3EKF1001V")
+		(lib_id "WaterNet Library:ERJ3EKF1001V")
 		(at 401.32 243.84 90)
 		(unit 1)
 		(body_style 1)
@@ -33053,7 +32792,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ERJ3EKF1001V:RES_ERJ3EKF1001V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 			(at 401.32 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -33281,7 +33020,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "WaterNet Footprints:RES_ERJ3EKF1503V"
+		(property "Footprint" "WaterNet26 Library:RES_ERJ3EKF1001V"
 			(at 83.82 99.06 0)
 			(hide yes)
 			(show_name no)
